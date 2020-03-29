@@ -1,6 +1,3 @@
-# kevylees
-# Kevin Lee
-# CSE163 AF
 # This program will use Kobe's basketball statistics
 # to gauge his effectiveness on the Los Angeles Lakers.
 
